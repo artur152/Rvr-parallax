@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('fonts/8k1ot2op-webfont.eot');
+    src: url('fonts/8k1ot2op-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/8k1ot2op-webfont.woff') format('woff'),
+    url('fonts/8k1ot2op-webfont.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
